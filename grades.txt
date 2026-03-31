@@ -1,0 +1,17 @@
+
+=====================================================
+Student: Dharineesh V 
+Date: 31-03-2026 06:07:18
+
+=====================================================
+Subject              Credits  Marks    GP Grade
+
+=====================================================
+Physics                   10   85.0   9.0 Grade: A+ (Excellent)
+Chemistry                 10   86.0   9.0 Grade: A+ (Excellent)
+C programming             10   95.0  10.0 Grade: O (Outstanding)
+
+=====================================================
+Total Credits: 30
+CGPA:  9/10.00
+Results: PASS 
